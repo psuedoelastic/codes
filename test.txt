@@ -1,0 +1,101 @@
+IP Address Information
+IP Address	103.245.13.113   [ Who Is | Trace Route | RBL Check ]
+Hostname	103.245.13.113
+Remote Port	62633
+Protocol	HTTP/1.1
+Connection	
+Proxy Server	None/Anonymous Proxy
+IP Behind Proxy	None
+Geo IP Location Information
+IP Location	IN IN, India
+City	Noida,36,203207
+Organization	Tripleplay Telecom Pvt Ltd
+ISP	Tripleplay Telecom Pvt Ltd
+AS Number	AS132453 TRIPLE PLAY BROADBAND PRIVATE LIMITED
+Latitude	28°57'00" North
+Longitude	77°32'00" East
+Distance	11768.12 km (7312.37 miles)
+Map Locationnew 	World Map  Google Maps  Yahoo Maps  Microsoft Live Maps 
+Map Location
+User Agent Information
+User Agent	Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Language	en-US,en;q=0.5
+Encoding	gzip, deflate
+Charset	
+Window Size 	1920x916 pixels
+Screen Resolution 	1920x1024 pixels
+Color Depth 	24 bit
+JavaScript 	1.5
+Java Support 	Yes
+Cookie Support 	Yes
+User Agent Plugins
+SVG Viewer 	No
+Shockwave Director 	No
+Shockwave Flash 	No
+RealPlayer 	No
+QuickTime 	No
+Windows Media Player 	No
+Acrobat Reader 	No
+IP Whois Information
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.245.12.0 - 103.245.15.255'
+
+inetnum:        103.245.12.0 - 103.245.15.255
+netname:        TTPL-IN
+descr:          Tripleplay Telecom Pvt Ltd
+country:        IN
+admin-c:        TTPL4-AP
+tech-c:         TTPL4-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-IN-IRINN
+mnt-lower:      MAINT-TTPL-IN
+mnt-routes:     MAINT-TTPL-IN
+mnt-irt:        IRT-TTPL-IN
+changed:        hm-changed@apnic.net 20131230
+source:         APNIC
+
+irt:            IRT-TTPL-IN
+address:        D 04/17 GF Exclusive Floors DLF Phase V, Gurgaon Haryana 122002
+e-mail:         gourav.sachdeva@gmail.com
+abuse-mailbox:  gourav.sachdeva@gmail.com
+admin-c:        TTPL4-AP
+tech-c:         TTPL4-AP
+auth:           # Filtered
+mnt-by:         MAINT-TTPL-IN
+changed:        hm-changed@apnic.net 20121228
+source:         APNIC
+
+role:           Tripleplay Telecom Pvt Ltd administrator
+address:        D 04/17 GF Exclusive Floors DLF Phase V, Gurgaon Haryana 122002
+country:        IN
+phone:          +12 44900200
+fax-no:         +12 44900200
+e-mail:         gourav.sachdeva@gmail.com
+admin-c:        TTPL4-AP
+tech-c:         TTPL4-AP
+nic-hdl:        TTPL4-AP
+mnt-by:         MAINT-TTPL-IN
+changed:        hm-changed@apnic.net 20121228
+source:         APNIC
+
+% Information related to '103.245.13.0/24AS132453'
+
+route:          103.245.13.0/24
+descr:          route object for 103.245.13.0/24
+country:        IN
+origin:         AS132453
+mnt-lower:      MAINT-TTPL-IN
+mnt-routes:     MAINT-TTPL-IN
+mnt-by:         MAINT-TTPL-IN
+changed:        hm-changed@apnic.net 20130408
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (UNDEFINED)
+
+
+
+
